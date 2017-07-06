@@ -328,7 +328,7 @@ border: none;
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background:red;
+	background:#555;
 	/*background:url(../images/line2.png) center center no-repeat;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -2064,7 +2064,7 @@ margin-bottom: 35px !important;
         top: -65px; 
         padding:20px 0;
         width:100%;
-		background-color: #101010!important;
+		background-color: #63a5a9!important;
     }
 
 /**/
