@@ -41,12 +41,6 @@ body{
 	border-bottom: 150px solid white;
 	border-left: 3000px solid transparent;
 }
-/*.container{
-	outline:1px solid #fc0;
-}
-.row{
-	outline:1px solid #f00;
-}*/
 .logo{
 	margin-top: 60px;
 	font-family: 'Roboto', 'sans-serif';
